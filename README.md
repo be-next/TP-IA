@@ -1,4 +1,3 @@
 # TP-IA
 
-  - TP-IA-01 ; régression linéaire
-  - 
+  - TP-IA-01 : régression linéaire
